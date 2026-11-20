@@ -112,16 +112,16 @@ STUDENT PERFORMANCE AND ATTENDANCE SYSTEM
 
 Total Students: 1005
 
-Enter Student Number (1-1005): 1
+Enter Student Number (1-1005): 5
 
 --- Student Details ---
-Math Marks: 85.0
-English Marks: 78.0
-Science Marks: 90.0
+Math Marks: 72.66
+English Marks: 78.38
+Science Marks: 62.85
 
-Total Marks: 253.0
-Average Marks: 84.33
-Attendance: 92.0 %
+Total Marks: 213.89
+Average Marks: 71.3
+Attendance: 87.78%
 
 Attendance Status: Good
 
@@ -163,4 +163,5 @@ Programming Language: Python
 Library: Pandas
 
 File Format: CSV
+
 Author Arpit Verma
